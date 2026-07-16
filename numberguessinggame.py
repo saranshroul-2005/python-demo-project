@@ -1,0 +1,2 @@
+a= "saransh"
+print(a):
