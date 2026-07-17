@@ -13,8 +13,8 @@ class NumberGuessingGame:
 
     SPICE_LEVELS = {
         "1": {"label": "Spicy", "range": (1, 50), "attempts": 9},
-        "2": {"label": "Medium Spicy", "range": (1, 100), "attempts": 6},
-        "3": {"label": "Fire", "range": (1, 200), "attempts": 4},
+        "2": {"label": "Medium Spicy", "range": (1, 100), "attempts": 7},
+        "3": {"label": "Fire", "range": (1, 200), "attempts": 6},
     }
 
     def __init__(self, spice="2"):
